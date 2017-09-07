@@ -1,7 +1,7 @@
 # MATLAB/OCTAVE
 Início dos estudos em programação usando os softwares MATLAB/OCTAVE:
 
-Os exemplos de código contidos nesse projeto são fruto da disciplina _EL83D - Princípios de Informática_, ministrada no 1º 
+Os exemplos de código contidos nesse projeto são fruto da disciplina _EL81D - Princípios de Informática_, ministrada no 1º 
 período do curso de Tecnologia em Sistemas de Telecomunicações da UTFPR.
 
 Os códigos estão agrupados em ordem progressiva de dificuldade e abrangem conceitos importantes no aprendizado da lógica de programação.
